@@ -3,3 +3,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def cook():
+    print("Cooking food now!")
